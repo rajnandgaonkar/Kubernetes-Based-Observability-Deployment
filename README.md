@@ -374,10 +374,3 @@ make docs
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Prometheus Community](https://prometheus.io/community/)
-- [Grafana Labs](https://grafana.com/)
-- [Kubernetes SIG Instrumentation](https://github.com/kubernetes/community/tree/master/sig-instrumentation)
-- [Cloud Native Computing Foundation](https://www.cncf.io/)
-
